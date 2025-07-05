@@ -10,7 +10,7 @@ features:
 - Level clear on all bricks destroyed
 
 
-Demo: 
+Demo: https://narvs1999.github.io/games_breakout/
 
 ![Demo Image](demo-image.png)
 
